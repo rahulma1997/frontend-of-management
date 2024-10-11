@@ -58,7 +58,7 @@ const TeamWork = () => {
     <div className="min-h-screen bg-cove bg-center" 
       style={{ backgroundImage: "url('https://wallpapers.com/images/hd/teamwork-1920-x-1200-background-alkpsosnirq2h2fy.jpg')" }}>
       
-      <header className="bg-blue-500 text-white py-4 text-center">
+      <header className="bg-white text-white py-4 text-center">
         <h1 className="text-3xl font-bold">Office Management</h1>
       </header>
 
@@ -67,7 +67,7 @@ const TeamWork = () => {
         
         <div className="grid grid-cols-1 gap-6 mt-10 sm:grid-cols-2 lg:grid-cols-3 ">
           
-          <div className="bg-blue-50 p-4 rounded-lg shadow-lg transition transform hover:scale-105">
+          <div className="bg-white p-4 rounded-lg shadow-lg transition transform hover:scale-105">
             <h3 className="text-xl font-semibold">Design</h3>
             <p className="mt-2">Designed by <strong>Akshay</strong> and <strong>Bharat</strong></p>
             <p className="text-gray-600">Akshay and Bharat are talented UI/UX designers with a passion for creating user-friendly interfaces using Tailwind CSS and Material UI.</p>
