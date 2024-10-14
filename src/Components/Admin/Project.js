@@ -196,7 +196,7 @@ const ProjectTable = () => {
 
   return (
     <>
-      <div className="flex-1 ml-0 md:ml-[200px] mt-6 md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
+      <div className="flex-1 ml-16  md:ml-[200px] mt-20 md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
         <h2 className="text-xl md:text-2xl font-bold mb-4">
           Project Management Section
         </h2>

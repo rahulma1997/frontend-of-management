@@ -138,8 +138,8 @@ export default function SidebarAdmin() {
           
         </Toolbar>
       </AppBar>
-      <div className='flex'>
-      <Drawer variant="permanent" open={open} >
+      <div className='flex '>
+      <Drawer variant="permanent"  open={open} >
         <DrawerHeader>
           <IconButton onClick={handleDrawerClose}>
             {theme.direction === 'rtl' ? <ChevronRightIcon /> : <ChevronLeftIcon />}
@@ -147,7 +147,7 @@ export default function SidebarAdmin() {
         </DrawerHeader>
         <Divider />
        
-        <div className=" h-screen flex flex-col bg-slate-300 ">
+        <div className=" h-screen  flex flex-col bg-slate-300 ">
         
         <ul>
           <Link to="">

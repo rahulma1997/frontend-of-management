@@ -121,7 +121,7 @@ const UserTable = () => {
   return (
     <>
       <div className="flex">
-        <div className="flex-1 ml-[200px] mt-24 max-w-4xl p-6 bg-slate-300 shadow-2xl absolute">
+        <div className="flex-1  ml-[20px] mt-24 max-w-4xl p-6 bg-slate-300 shadow-2xl absolute">
           <h2 className="text-2xl font-bold mb-4 text-center">User List</h2>
 
           <div className="relative mb-4 flex">

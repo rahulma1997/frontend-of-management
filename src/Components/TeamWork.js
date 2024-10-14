@@ -5,7 +5,7 @@ const TeamWork = () => {
     <div className="min-h-screen bg-cove bg-center" 
       style={{ backgroundImage: "url('https://wallpapers.com/images/hd/teamwork-1920-x-1200-background-alkpsosnirq2h2fy.jpg')" }}>
       
-      <header className="bg-white text-white py-4 text-center">
+      <header className="bg-blue-500 text-white py-4 text-center">
         <h1 className="text-3xl font-bold">Office Management</h1>
       </header>
 
