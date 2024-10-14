@@ -37,7 +37,7 @@ const ViewTask = () => {
   };
 
   return (
-    <div className="flex-1 mt-24 md:ml-[300px] text-black max-w-full md:max-w-4xl p-4 md:p-6 shadow-2xl absolute bg-gray-100">
+    <div className="flex-1 mt-24 ml-20 md:ml-[300px] text-black max-w-full md:max-w-4xl p-4 md:p-6 shadow-2xl absolute bg-gray-100">
       <h1 className="text-2xl font-bold mb-4 p-2 rounded">Assigned Tasks</h1>
       <div className="mb-5">
       <input

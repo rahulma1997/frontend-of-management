@@ -63,7 +63,7 @@ function Comments() {
   };
 
   return (
-    <div className="flex-1 mt-24 md:ml-[300px] text-black max-w-full md:max-w-4xl p-4 md:p-6 shadow-2xl absolute bg-gray-300 md:w-[900px]">
+    <div className="flex-1 mt-24 ml-20 md:ml-[300px] text-black max-w-full md:max-w-4xl  md:p-6 shadow-2xl absolute bg-gray-300 md:w-[900px]">
     <div className="max-w-lg  p-2 ">
     <h1 className="text-2xl font-bold mb-4 ml-7 p-2 rounded">Comments</h1>
       

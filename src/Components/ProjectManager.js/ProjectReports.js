@@ -71,8 +71,8 @@ const ProjectReports = () => {
 
   return (
     <>
-      <div className="flex flex-col md:flex-row ">
-        <div className="flex-1 max-w-4xl mx-auto p-6 ml-[200px] bg-slate-300 mt-28 rounded-lg shadow-2xl">
+      <div className="flex flex-col  md:flex-row ">
+        <div className="flex-1 max-w-4xl mx-auto p-6 ml-[30px] bg-slate-300 mt-28 rounded-lg shadow-2xl">
           <h2 className="text-2xl font-bold mb-4 text-center">Project Reports</h2>
           
           {/* Form for adding/updating projects */}

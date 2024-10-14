@@ -66,7 +66,7 @@ const Files = () => {
   const currentFiles = files.slice((currentPage - 1) * filesPerPage, currentPage * filesPerPage);
 
   return (
-    <div className="flex-1 ml-0 md:ml-[200px] mt-6 md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
+    <div className="flex-1 ml-20 md:ml-[200px] mt-20 md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
       <div className="max-w-lg mx-auto p-5">
         <h1 className="text-2xl font-bold mb-5">Upload Files</h1>
         <input

@@ -99,7 +99,7 @@ const ProjectStatus = () => {
   }
 
   return (
-    <div className="flex-1 h-[530px] ml-0 md:ml-[350px]  md:mt-20 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
+    <div className="flex-1 h-[530px] ml-20 mt-20 md:ml-[350px]  md:mt-20 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
       <h2 className="text-xl md:text-2xl font-bold mb-4">Project Status / Deadlines / Reports</h2>
       <input
         type="text"

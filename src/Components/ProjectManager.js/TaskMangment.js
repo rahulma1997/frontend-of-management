@@ -186,7 +186,7 @@ const TaskManagement = () => {
 
   return (
     <>
-      <div className="flex-1 h-[500px] md:ml-[350px] md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
+      <div className="flex-1 h-[500px] ml-20  mt-20 md:ml-[350px] md:mt-24 max-w-full md:max-w-4xl p-4 md:p-6 bg-slate-300 shadow-2xl absolute">
         <h2 className="text-xl md:text-2xl font-bold mb-4">
           Task Management Section
         </h2>

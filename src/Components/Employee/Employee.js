@@ -21,7 +21,7 @@ const Employee = () => {
     }, []);
 
     return (
-        <div className=" mx-auto p-4 ml-[200px] w-[600px] mt-20 bg-gray-100 rounded-lg shadow-md">
+        <div className=" mx-auto p-4 ml-[20px] w-[600px] mt-20 bg-gray-100 rounded-lg shadow-md">
             <h2 className="text-lg font-semibold mb-4">Employee Chat</h2>
             <div className="message-container  bg-white p-5   max-h-96 overflow-y-auto mb-4 flex flex-col">
                 {messages.map((msg, index) => (
