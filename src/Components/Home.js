@@ -7,7 +7,7 @@ function Home() {
     <div className="min-h-screen flex flex-col">
     
       <header className="bg-blue-500 text-white py-4 flex flex-col sm:flex-row justify-between items-center px-4 sm:px-6">
-        <h1 className="text-2xl font-bold text-center sm:text-left">Office Management</h1>
+        <h1 className="text-2xl font-bold text-center sm:text-left">Office Management 1</h1>
         <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4 mt-2 sm:mt-0">
           <Link to="/admin" className="hover:underline"><span>Admin</span></Link>
           <Link to="/manager" className="hover:underline"><span>Project Manager</span></Link>
